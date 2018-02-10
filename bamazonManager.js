@@ -92,7 +92,7 @@ function addToInventory(callbackFunction) {
 				// check if the id is a product
 				// if not restart the function
 			    if (res.changedRows === 0) {
-			      console.log("that item doesn't exist");
+			      console.log("that item doesn't exist or you didn't enter a quantity");
 			      addToInventory(callbackFunction);
 			      return;
 			    }
