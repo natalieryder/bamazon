@@ -11,7 +11,7 @@ var connection = mysql.createConnection({
 });
 // need version w/ and w/out
 function showProducts(callbackFunction) {
-	console.log("Selecting all products...\n");
+
   	connection.query("SELECT item_id, product_name, price, stock_quantity FROM products", function(err, res) {
       var table = new Table({
           head: ['id', 'item', 'price', 'quantity']
