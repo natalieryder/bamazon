@@ -1,6 +1,6 @@
 # bamazon
 
-## [Video walkthrough](https://drive.google.com/file/d/17LJ1dm6aKLuqWEYHCWyVtZhYHI4nBPZD/view?usp=sharing)
+## [Video walkthrough](https://drive.google.com/file/d/1-zWB5A3m2i4ck5bUYQpeJeqGsLBPI6FU/view?usp=sharing)
 
 ### Customer
 - Try to buy too many
